@@ -1,6 +1,8 @@
 Ax
 ==
 
+[![Build Status](https://travis-ci.org/jeffh/ax.png)](https://travis-ci.org/jeffh/ax)
+
 A simplier logging interface.
 
     // The core interface for all logging
